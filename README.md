@@ -3,8 +3,8 @@
 # Trivia
 
 Trivia is a type of game in which players are asked questions about different topics and they have to get as many correct answers as possible.
-This project's main goal for me was to pratice not only hard skills such React, Redux and RTL, but also soft skills such as communication, and team work.
-I've managed to build a wallet app that fecths data from a currency API and register expenses using a global state.
+This project's main goal for me was to pratice not only hard skills such React, Context and RTL, but also soft skills such as communication, and team work.
+I've managed to build this game fecthing data from a questions API and elaborate a score and leaderboard system using a global state manager such as Context API.
 
 ## Link
 
@@ -35,8 +35,8 @@ npm start
 
 I still plan in making some changes / improvements to this project. Such as:
 
-- Adding expenses graphic
-- Mobile responsive
+- Create a more complex filter for questions
+- Mobile responsive behaviour
 - Better CSS!
 
 
